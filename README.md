@@ -1,3 +1,5 @@
 # AP01-NotesAndAssignment
+My notes and assignments 
 
-Unity : 2020.3.14f1. /. My notes and assignments from https://github.com/BoyanTata/AP01
+Course：https://github.com/BoyanTata/AP01 <br />
+Unity : 2020.3.14f1 <br />
