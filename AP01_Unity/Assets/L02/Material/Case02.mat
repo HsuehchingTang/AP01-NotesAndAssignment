@@ -26,8 +26,8 @@ Material:
     m_Floats:
     - _OutlinrValue: 0.02
     m_Colors:
-    - _Color: {r: 0.06247773, g: 0.1097682, b: 0.1132075, a: 1}
-    - _ColorDark: {r: 0.2, g: 0.6558778, b: 0.8, a: 1}
-    - _ColorLight: {r: 0.6941972, g: 0.7192399, b: 0.754717, a: 1}
+    - _Color: {r: 0.5566038, g: 0.28562066, b: 0.028880388, a: 1}
+    - _ColorDark: {r: 0.9245283, g: 0.07413671, b: 0.5095713, a: 1}
+    - _ColorLight: {r: 0.9716981, g: 0.8021093, b: 0.9252959, a: 1}
     - _OutlinrColor: {r: 0.03831434, g: 0.07657604, b: 0.1981132, a: 1}
   m_BuildTextureStacks: []
