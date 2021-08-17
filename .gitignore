@@ -5,3 +5,10 @@ AP01_Unity/Logs/
 AP01_Unity/UserSettings/
 
 AP01_Unity/Assets/ShaderForge
+AP01_Unity/.vsconfig
+AP01_Unity/AP01_Unity.sln
+AP01_Unity/Assembly-CSharp.csproj
+AP01_Unity/Assembly-CSharp-Editor.csproj
+AP01_Unity/.vs/AP01_Unity/v16/.suo
+AP01_Unity/.vs/AP01_Unity/v16/Browse.VC.db
+AP01_Unity/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
