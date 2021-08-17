@@ -353,7 +353,7 @@ PrefabInstance:
     - target: {fileID: -7635826562936255635, guid: 002f36e26922742e68d27a765b6477b9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: bdbadcd9cc3f5419e87fd2e6517e25f8, type: 2}
+      objectReference: {fileID: 2100000, guid: 39bb85a33aa1242feab3dbc0ea23134a, type: 2}
     - target: {fileID: 919132149155446097, guid: 002f36e26922742e68d27a765b6477b9, type: 3}
       propertyPath: m_Name
       value: Common_Suzanne
