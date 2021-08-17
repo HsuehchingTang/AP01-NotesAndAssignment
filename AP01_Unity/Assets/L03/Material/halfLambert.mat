@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Self-Lambert
-  m_Shader: {fileID: 4800000, guid: 0d591a9916f124db9a21d5addcbd134d, type: 3}
+  m_Name: halfLambert
+  m_Shader: {fileID: 4800000, guid: 5f6afafa4200a604fb10d17cec0c8873, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0

@@ -1,4 +1,4 @@
-Shader "AP01/L03/SelfLambert" { /*路徑名稱*/
+Shader "AP01/L03/halfLambert" { /*路徑名稱*/
     Properties { /*材質面板參數：給美術編輯用的區域定義*/
     }
     SubShader {
@@ -43,9 +43,9 @@ Shader "AP01/L03/SelfLambert" { /*路徑名稱*/
                 //normalize 可以不加，但是以防萬一
                 float nDotl = dot(nDir,lDir); //nDir Dot lDir
                 float Lembert = max(0.0, nDotl);//在0跟nDotl的數值中取最大
-                float SelfLembert = nDotl * 0.5 + 0.5;
+                float halfLembert = nDotl * 0.5 + 0.5;
 
-                return float4(SelfLembert, SelfLembert, SelfLembert,1);
+                return float4(halfLembert, halfLembert, halfLembert,1);
             }
 
             ENDCG
