@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Case02
+  m_Shader: {fileID: 4800000, guid: 948036de6c7544be197c875788233a0f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 3f0557706a74f420cb4996beec69cdd0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _NoisePower: 0.6
+    - _SpacPower: 3
+    - _TexTiling1: 3
+    - _TexTiling2: 1
+    m_Colors:
+    - _DarkColor: {r: 0.10308007, g: 0.076628685, b: 0.3962264, a: 1}
+    - _LightColor: {r: 0.23268957, g: 0.4331773, b: 0.7830189, a: 1}
+    - _SpacColor: {r: 0.7019608, g: 1, b: 0.951253, a: 1}
+  m_BuildTextureStacks: []
